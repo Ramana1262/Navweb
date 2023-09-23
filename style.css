@@ -1,0 +1,61 @@
+body {
+
+    background-color: white;
+
+}
+
+header {
+
+    background-color: skyblue;
+
+    margin: 0;
+
+    padding: 2%;
+
+    color: goldenrod;
+
+    text-align: center;
+
+}
+
+aside {
+
+    background-color: white;
+
+    box-shadow: 0 0 10px violet;
+
+    padding: auto;
+
+    width: 250px;
+
+    height: 100vh;
+
+}
+
+aside a {
+
+    text-decoration: none;
+
+    display: block;
+
+    padding: 10px;
+
+    color: black;
+
+}
+
+aside:hover {
+
+    background-color: gray;
+
+    color: blue;
+
+}
+
+aside a:hover {
+
+    background-color: orange;
+
+    color: rgb(136, 136, 166);
+
+}
